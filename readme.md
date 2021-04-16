@@ -15,11 +15,11 @@ Within this repository, you'll find _example_ solutions for the challenges. Plea
 Deploy your first Cloudflare Worker with Wrangler.
 
 
-### 1B – Portfolio Project
+### 1B – Concert Promoter
 
 > **Example Solution:** TODO
 
-Deploy your first Cloudflare Worker with Wrangler.
+Music fans from all over the world visit your site to find the soonest concert nearest to their location. When your page is requested, render a list of upcoming events, reacting to the client's current location.
 
 
 ### 2 – Pick a Framework
