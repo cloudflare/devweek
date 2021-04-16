@@ -17,7 +17,7 @@ Deploy your first Cloudflare Worker with Wrangler.
 
 ### 1B – Concert Promoter
 
-> **Example Solution:** TODO
+> **Example Solution:** TBA – Challenge lasts all week!
 
 Music fans from all over the world visit your site to find the soonest concert nearest to their location. When your page is requested, render a list of upcoming events, reacting to the client's current location.
 
