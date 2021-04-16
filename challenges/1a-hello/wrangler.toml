@@ -1,0 +1,7 @@
+name = "hello"
+type = "javascript"
+workers_dev = true
+
+route = ""
+account_id = ""
+zone_id = ""

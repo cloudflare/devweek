@@ -10,7 +10,7 @@ Within this repository, you'll find _example_ solutions for the challenges. Plea
 
 ### 1A – Hello Worker
 
-> **Example Solution:** N/A
+> **Example Solution:** [`/challenges/1a-hello`](/challenges/1a-hello)
 
 Deploy your first Cloudflare Worker with Wrangler.
 
