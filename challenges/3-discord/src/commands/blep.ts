@@ -12,6 +12,9 @@ function toKeyname(name: string, smol: boolean): string {
 }
 
 // Load KV Namespace w/ values
+// @NOTE
+//   This is called manually during setup and
+//   is not part of the Discord API or application.
 export async function load(): Promise<void> {
 	const Dataset: {
 		[name: string]: {
