@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["esnext", "dom.iterable", "webworker"],
+    "types": ["@cloudflare/workers-types"],
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "noEmit": true,
+  },
+  "include": [
+    "workers/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
