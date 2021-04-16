@@ -24,7 +24,8 @@ Music fans from all over the world visit your site to find the soonest concert n
 
 ### 2 – Pick a Framework
 
-> **Example Solution:** TODO
+> **Example Solution:** [`signalnerve/my-nextjs-blog`](https://github.com/signalnerve/my-nextjs-blog)<br>
+> **Walkthrough:** [Deploy a Next.js Website with Pages](https://developers.cloudflare.com/pages/how-to/deploy-a-nextjs-site)
 
 Choose your own framework and build a site for your blogs.
 
