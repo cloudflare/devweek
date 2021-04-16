@@ -6,16 +6,19 @@
     "forceConsistentCasingInFileNames": true,
     "lib": ["esnext", "dom.iterable", "webworker"],
     "types": ["@cloudflare/workers-types"],
+    "skipDefaultLibCheck": true,
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "noImplicitThis": true,
     "noImplicitAny": true,
+    "alwaysStrict": true,
     "noEmit": true,
   },
   "include": [
-    "workers/**/*"
+    "challenges/**/*"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "**/build/**"
   ]
 }
