@@ -44,8 +44,8 @@ Build a Discord Bot with Cloudflare Workers and Workers KV.
 Using the UnSplash API, render random images.
 
 
-### 6 – Twilio Reminders
+### BONUS – Twilio Reminders
 
-> **Example Solution:** [`/challenges/6-reminders`](/challenges/6-reminders)
+> **Example Solution:** [`/challenges/bonus-reminders`](/challenges/bonus-reminders)
 
 Build a Reminders App using Cron triggers and the Twilio API.

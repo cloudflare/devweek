@@ -1,4 +1,4 @@
-# Challenge #6: Twilio Reminders
+# Bonus Challenge: Twilio Reminders
 
 ## Setup
 
