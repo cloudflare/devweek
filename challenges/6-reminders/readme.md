@@ -36,4 +36,4 @@ Once deployed, visit your domain root and enter your _personal_ phone number, wh
 
 ***Example Demonstration***
 
-![video demo](media/demo.mp4)
+<img width="320" src="media/demo.gif"/>
