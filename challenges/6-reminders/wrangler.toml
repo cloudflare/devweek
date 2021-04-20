@@ -1,0 +1,26 @@
+name = "reminders"
+type = "javascript"
+workers_dev = true
+
+route = ""
+account_id = "<FIXME>"
+zone_id = ""
+
+[build]
+command = "npm run build"
+upload.format = "service-worker"
+
+[vars]
+TEST_RECIPIENT = "+1<FIXME>" # your verified phone number
+TWILIO_PHONENUMBER = "+1<FIXME>" # your Twilio  phone number
+TWILIO_ACCOUNTSID = "<FIXME>" # your Twilio Account SID
+# (SECRET) TWILIO_AUTHTOKEN -> your Twilio Auth Token
+#   $ wrangler secret put TWILIO_AUTHTOKEN
+
+[triggers]
+crons = ["0 16 * * *"] # 4PM (UTC) ~> 9AM (PST)
+
+[[kv_namespaces]]
+binding = "REMINDERS"
+preview_id = "<FIXME>"
+id = "<FIXME>"
