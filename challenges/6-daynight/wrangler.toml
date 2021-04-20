@@ -1,0 +1,14 @@
+name = "daynight"
+type = "javascript"
+workers_dev = true
+
+route = ""
+account_id = "<FIXME>"
+zone_id = ""
+
+[build]
+command = "npm run build"
+upload.format = "service-worker"
+
+[vars]
+LOCALE_DEFAULT = "en-US"

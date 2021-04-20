@@ -44,6 +44,13 @@ Build a Discord Bot with Cloudflare Workers and Workers KV.
 Using the UnSplash API, render random images.
 
 
+### 6 – Day and Night
+
+> **Example Solution:** [`/challenges/6-daynight`](/challenges/6-daynight)
+
+Display a different background photo or colour depending on the incoming request's location.
+
+
 ### BONUS – Twilio Reminders
 
 > **Example Solution:** [`/challenges/bonus-reminders`](/challenges/bonus-reminders)
